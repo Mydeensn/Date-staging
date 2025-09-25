@@ -1,0 +1,12 @@
+{
+  "name": "monthly-date-slots",
+  "version": "1.0.0",
+  "description": "Node.js server that returns 30-minute time slots for the next 10 days starting tomorrow (9:30 AM - 6:30 PM), marking weekends.",
+  "main": "calendar_app.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node calendar_app.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
